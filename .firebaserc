@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "netflixgpt-92d77",
+    "build": "netflixgpt-92d77"
+  },
+  "targets": {},
+  "etags": {}
+}
